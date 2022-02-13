@@ -404,14 +404,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩𝐬 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/MT_MOVIE_TEMLPLE')
+            InlineKeyboardButton('🔍 𝐒𝐄𝐀𝐑𝐂𝐇', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🤖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/MOVIE_TEMPLE_OFFICIAL')
         ], [
-            InlineKeyboardButton('Channel', url='https://t.me/MOVIE_TEMPLE_OFFICIAL'),
-            InlineKeyboardButton('Bad Bunny 444',url='https://t.me/Bad_Bunny_444')
+            InlineKeyboardButton('𝐆𝐑𝐎𝐔𝐏', url='https://t.me/MT_MOVIE_TEMPLE'),
+            InlineKeyboardButton('ᥴꪮꪖ',url='https://t.me/ANKIT3690')
         ], [
+            InlineKeyboardButton('𝐌𝐑 𝐁𝐀𝐃𝐃', url='https://t.me/MR_BADDD'),
+            InlineKeyboardButton('𝐊.𝐌', url='https://t.me/Bad_Bunny_444')
+        ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
         ]]
