@@ -82,8 +82,8 @@ these are the extra features of 𝙱𝙰𝙳 𝙱𝚄𝙽𝙽𝚈
 
 <b>𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂:</b>
 •✯ <a href=https://t.me/ANKIT3690>ℭ𝔒𝔄</a>
-✯ <a href=https://t.me/Bad_Bunny_444>𝐊.𝐌</a>
-✯ <a href=https://t.me/MR_BADDD>🅼︎🆁︎ 🅱︎🅰︎🅳︎🅳︎</a>"""
+•✯ <a href=https://t.me/Bad_Bunny_444>𝐊.𝐌</a>
+•✯ <a href=https://t.me/MR_BADDD>🅼︎🆁︎ 🅱︎🅰︎🅳︎🅳︎</a>"""
     STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
