@@ -78,7 +78,7 @@ these are the extra features of 𝙱𝙰𝙳 𝙱𝚄𝙽𝙽𝚈
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>"""
-    𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑𝐒 = """ᥴꪮꪖ: <b>ᥴꪮꪖ</b>
+    ADMIN_TXT = """ᥴꪮꪖ: <b>ᥴꪮꪖ</b>
 
 <b>𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂:</b>
 •✯ <a href=https://t.me/ANKIT3690>ℭ𝔒𝔄</a>
