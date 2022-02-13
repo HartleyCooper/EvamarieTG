@@ -15,7 +15,8 @@ class script(object):
 
 <b>𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂:</b>
 ✯ <a href=https://t.me/ANKIT3690>ℭ𝔒𝔄</a>
-✯ <a href=https://t.me/MR_BADDD>🅼︎🆁︎ 🅱︎🅰︎🅳︎🅳︎</a>"""
+✯ <a href=https://t.me/Bad_Bunny_444>𝐊.𝐌</a>
+✯ <a href=https://t.me/MR_BADDD>🅼︎🆁︎ 🅱︎🅰︎🅳︎🅳︎</a>""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
