@@ -409,7 +409,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔍 𝐒𝐄𝐀𝐑𝐂𝐇', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🤖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/MOVIE_TEMPLE_OFFICIAL')
         ], [
-            InlineKeyboardButton('𝐆𝐑𝐎𝐔𝐏', url='https://t.me/MT_MOVIE_TEMPLE'),
+            InlineKeyboardButton('𝐆𝐑𝐎𝐔𝐏', url='https://t.me/ML_MOVIE_LOKAM'),
             InlineKeyboardButton('ᥴꪮꪖ',url='https://t.me/ANKIT3690')
         ], [
             InlineKeyboardButton('𝐌𝐑 𝐁𝐀𝐃𝐃', url='https://t.me/MR_BADDD'),
@@ -424,7 +424,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-        await query.answer('Piracy Is Crime')
+        await query.answer('𝐀𝐍𝐊𝐈𝐓')
     elif query.data == "help":
         buttons = [[
             InlineKeyboardButton('Manual Filter', callback_data='manuelfilter'),
