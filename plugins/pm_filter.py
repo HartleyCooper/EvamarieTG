@@ -410,10 +410,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🤖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/MOVIE_TEMPLE_OFFICIAL')
         ], [
             InlineKeyboardButton('𝐆𝐑𝐎𝐔𝐏', url='https://t.me/ML_MOVIE_LOKAM'),
-            InlineKeyboardButton('ᥴꪮꪖ',url='https://t.me/ANKIT3690')
+            InlineKeyboardButton('𝐌𝐋 𝐒𝐄𝐑𝐈𝐄𝐒',url='https://t.me/ML_SERIESS')
         ], [
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('ℹ️ 𝐇𝐞𝐥𝐩', callback_data='help'),
+            InlineKeyboardButton('😊 𝐀𝐛𝐨𝐮𝐭', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
