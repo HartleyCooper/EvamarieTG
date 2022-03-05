@@ -1,8 +1,14 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=http://t.me/MIDDHUN_BOT>🅳︎🆄︎🅻︎🆀︎🆄︎🅴︎🆁︎</a>,ഞാൻ 𝙳𝚄𝙻𝚀𝚄𝙴𝚁
-എന്നെ ഉണ്ടാക്കിയത്
-<a href=https://t.me/Bad_Bunny_444>𝐊.𝐌</a>,<a href=https://t.me/MR_BADDD>🅼︎🆁︎ 🅱︎🅰︎🅳︎🅳︎</a>,<a href=https://t.me/ANKIT3690>ℭ𝔒𝔄</a> സാധാരണ ʙᴏᴛ പോലെ എന്നെ വേറെ ഒരു ചാനലിലും ഉപയോഗിക്കാൻ പറ്റില്ല എന്റെ ചാനലിൽ മാത്രമേ എന്നെ ഉപയോഗിക്കാൻ പറ്റത്തൊള്ളൂ"""
+    START_TXT = """𝙷𝙴𝙻L𝙾 {},
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=http://t.me/MIDUKKAN_ROBOT>𝙿𝙰𝚁𝙺𝙴𝚁</a>,𝚂𝙿𝙴𝙻𝙻𝙸𝙽𝙶 𝙸𝚂 𝙿 𝙰 𝚁 𝙺 𝙴 𝚁 𝙸𝙵 𝚈𝚄 𝙰𝚁𝙴 𝙰 𝙼𝙾𝚅𝙸𝙴 𝙻𝙾𝚅𝙴𝚁 😘 𝙹𝚄𝚂𝚃 𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙶𝙸𝚅𝙴 𝙼𝙾𝚅𝙸𝙴 𝙽𝙰𝙼𝙴 😇
+𝚃𝙷𝙴𝙽 𝚂𝙾𝙾𝙽 𝚈𝚄 𝚆𝙸𝙻𝙻 𝙶𝙴𝚃 𝚃𝙷𝙴 𝙼𝙾𝚅𝙸𝙴 🤠 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺 👆👆 𝙸𝚂 𝙸𝙽 𝚃𝙷𝙴 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝚃𝙸𝙾𝙽 🥸
+𝙼𝚈 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 👇👇
+
+𝙴𝙳𝙸𝚃𝙾𝚁 & 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/ANKIT3690>ꉓ𝕺ค</a>
+𝙱𝙾𝚃 𝙼𝙰𝙺𝙴𝚁: <a href=https://t.me/Bad_Bunny_444>𝔐ℜ 𝔇𝔯𝔢𝔞𝔪</a>
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Peter_Parker_788>𝕸𝕽 𝕴.𝕸</a>"""
+
+
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -10,7 +16,7 @@ class script(object):
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MR_BADDD>🅼︎🆁︎ 🅱︎🅰︎🅳︎🅳︎</a>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-✯ 𝕯𝖀𝕷𝕼𝖀𝕰𝕽 𝖎𝖘 𝖆𝖓 𝖔𝖕𝖊𝖓 𝖘𝖔𝖚𝖗𝖈𝖊 𝖕𝖗𝖔𝖏𝖊𝖈𝖙.
+✯ 𝙿𝙰𝚁𝙺𝙴𝚁 𝖎𝖘 𝖓𝖔𝖙 𝖆𝖓 𝖔𝖕𝖊𝖓 𝖘𝖔𝖚𝖗𝖈𝖊 𝖕𝖗𝖔𝖏𝖊𝖈𝖙.
 👋എന്താടാ മോനെ നോക്കുന്നേ നിനക്ക് ആവശ്യമായിട്ടുള്ളത് ഇവിടെ ഇല്ല 
 
 <b>𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂:</b>
@@ -23,7 +29,7 @@ class script(object):
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. 𝙱𝙰𝙳 𝙱𝚄𝙽𝙽𝚈 should have admin privillage.
+1. 𝙿𝙰𝚁𝙺𝙴𝚁 should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -34,7 +40,7 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- 𝙱𝙰𝙳 𝙱𝚄𝙽𝙽𝚈 Supports both url and alert inline buttons.
+- 𝙿𝙰𝚁𝙺𝙴𝚁 Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
@@ -69,7 +75,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of 𝙱𝙰𝙳 𝙱𝚄𝙽𝙽𝚈
+these are the extra features of 𝙿𝙰𝚁𝙺𝙴𝚁
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
