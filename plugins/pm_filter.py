@@ -531,9 +531,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('♻️', callback_data='rfrsh')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        total = await Media.count_documents()
-        users = await db.total_users_count()
-        chats = await db.total_chat_count()
+        total = await Media.count_documents(𝐀𝐍𝐊𝐈𝐓)
+        users = await db.total_users_count(𝐀𝐍𝐊𝐈𝐓)
+        chats = await db.total_chat_count(𝐀𝐍𝐊𝐈𝐓)
         monsize = await db.get_db_size()
         free = 536870912 - monsize
         monsize = get_size(monsize)
@@ -568,7 +568,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
         if str(grp_id) != str(grpid):
             await query.message.edit("Your Active Connection Has Been Changed. Go To /settings.")
-            return await query.answer('Piracy Is Crime')
+            return await query.answer('𝐀𝐍𝐊𝐈𝐓')
 
         if status == "True":
             await save_group_settings(grpid, set_type, False)
